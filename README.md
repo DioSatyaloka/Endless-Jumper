@@ -9,7 +9,7 @@
 
 
 # CURRENT PROBLEMS
-v0.02
+**v0.02**
 - Need Better Collision and Ground Detection
 - Jumping is too high
 - Lack of UI
