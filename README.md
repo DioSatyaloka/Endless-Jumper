@@ -1,7 +1,7 @@
 # Wolf-Runner
 
 1. Description
-    A simple endless runner game for mobile devices.
+    - A simple endless runner game for mobile devices.
 2. Gameplay
     - Current version supports technical demo only. Future version will includes power-ups, and high-score system.
 3. Control
