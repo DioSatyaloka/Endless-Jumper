@@ -9,7 +9,11 @@
 
 
 # CURRENT PROBLEMS
-**v0.02**
-- Need Better Collision and Ground Detection
-- Jumping is too high
-- Lack of UI
+**v0.04**
+- ~~Need Better Collision and Ground Detection~~
+- ~~Jumping is too high~~
+- Lack of UI.
+    - Main Menu Created
+    - Need pause menu, and OnDeath menu
+- No Sound.
+- PickUps may be unbalanced.
